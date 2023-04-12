@@ -4,6 +4,13 @@
 #include <algorithm> 
 #include <random> 
 
+/* Web Sources I used:
+    - https://www.techiedelight.com/shuffle-vector-cpp/
+    - https://stackoverflow.com/questions/3827320/simple-class-concepts-in-c-cards-in-a-deck
+    - https://cplusplus.com/forum/general/265502/
+    - https://en.cppreference.com/w/cpp/algorithm/random_shuffle
+*/
+
 namespace ariel{
 
     // empty constructor
